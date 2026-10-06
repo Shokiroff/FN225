@@ -1,0 +1,22 @@
+[
+    {
+        "admin_id": 1,
+        "admin_name": "Madina"
+    },
+    {
+        "admin_id": 2,
+        "admin_name": "Alisher"
+    },
+    {
+        "admin_id": 3,
+        "admin_name": "Doston"
+    },
+    {
+        "admin_id": 4,
+        "admin_name": "Sardor"
+    },
+    {
+        "admin_id": 5,
+        "admin_name": "Islom"
+    }
+]
